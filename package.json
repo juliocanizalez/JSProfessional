@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "live-server"
+    "start": "live-server",
+    "closures": "node clases/closures.js"
   },
   "repository": {
     "type": "git",
